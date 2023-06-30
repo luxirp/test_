@@ -8,6 +8,7 @@ print("Foo")
 a=2
 b=2
 z=10
+x=4
 
 def resta(a,b):
     c=a-b
